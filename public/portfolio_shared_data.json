@@ -19,6 +19,11 @@
     "skills": {
       "icons": [
         {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -29,8 +34,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Vue.JS",
+          "class": "devicon-vuejs-plain",
           "level": "80"
         },
         {
@@ -44,16 +49,6 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "65"
@@ -61,6 +56,26 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": ".Net Core",
+          "class": "devicon-dotnetcore-plain",
+          "level": "60"
+        },
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "60"
         }
       ]
