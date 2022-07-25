@@ -6,7 +6,7 @@
         "about": "O mnie",
         "projects": "Projekty",
         "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "experience": "Expériences"
       }
     },
     "projects": [
@@ -81,35 +81,38 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Alteca",
+        "title": "Stage Développement Mobile",
+        "years": "02.2022 - à ce jour",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java Android"
         ],
+        "mainTechLogo": "fa-android",
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Java Android",
+          "JUnit",
+          "Espresso",
+          "Jenkins",
+          "Gitlab",
+          "Trello"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Gestion Système Telecom",
+        "title": "Stage Développement Back-End",
+        "years": "04.2021 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          ".Net Core", "PostgreSQL"
         ],
+        "mainTechLogo": "devicon-csharp-plain",
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "C#",
+          ".Net Core 5/6",
+          "Entity Framework",
+          "xUnit",
+          "PostgreSQL",
+          "Vue.JS 2",
+          "Cypress"
         ]
       }
     ]
