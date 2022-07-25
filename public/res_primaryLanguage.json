@@ -81,37 +81,38 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Alteca",
+        "title": "Mobile Developer Intern",
+        "years": "02.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java Android"
         ],
+        "mainTechLogo": "fa-android",
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Java Android",
+          "JUnit",
+          "Espresso",
+          "Jenkins",
+          "Gitlab",
+          "Trello"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Gestion Système Telecom",
+        "title": "Back-end Intern",
+        "years": "04.2021 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          ".Net Core", "PostgreSQL"
         ],
+        "mainTechLogo": "devicon-csharp-plain",
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "C#",
+          ".Net Core 5/6",
+          "Entity Framework",
+          "xUnit",
+          "PostgreSQL",
+          "Vue.JS 2",
+          "Cypress"
         ]
       }
     ]
