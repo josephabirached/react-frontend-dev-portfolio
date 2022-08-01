@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Papers Gamma",
+        "startDate": "2022",
+        "description": "Papers Gamma is a website that allows the discussion of scientific papers. During my last year of engineering I contributed to this project by improving the catalog search algorithm and implementing the ArXiv API into the papers add page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/papers-gamma/p1.png",
+          "images/portfolio/papers-gamma/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/josephabirached/papers",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-flask-original",
+            "name": "Flask"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },

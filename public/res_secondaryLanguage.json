@@ -4,33 +4,33 @@
       "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
       "section_name": {
         "about": "O mnie",
-        "projects": "Projekty",
+        "projects": "Projets",
         "skills": "Compétences",
         "experience": "Expériences"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Papers Gamma",
+        "startDate": "2022",
+        "description": "Papers Gamma est un site web qui permet la discussion d'articles scientifiques. J'ai contribué dans ce projet lors de ma dernière année à l'école d'ingénieurs, notamment dans l'algorithme de recherche du catalogue et l'implémentation de l'API ArXiv.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/papers-gamma/p1.png",
+          "images/portfolio/papers-gamma/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/josephabirached/papers",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-flask-original",
+            "name": "Flask"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
